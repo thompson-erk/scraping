@@ -22,3 +22,4 @@ for page in list(range(1,4)):
 
 df = pd.DataFrame(jobs,columns = ['jobname','location','salary'])
 print(df)
+
